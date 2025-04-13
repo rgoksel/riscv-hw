@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Sun Apr 13 23:35:30 2025
+# Process ID: 17440
+# Current directory: D:/risc_hw
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20724 D:\risc_hw\risc_hw.xpr
+# Log file: D:/risc_hw/vivado.log
+# Journal file: D:/risc_hw\vivado.jou
+# Running On: the_gokcell, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 12789 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/risc_hw/risc_hw.xpr
+update_compile_order -fileset sources_1

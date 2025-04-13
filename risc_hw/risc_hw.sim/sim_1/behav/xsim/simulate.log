@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+data @ mem[0x80000000] = 00000000
+data @ mem[0x80000004] = 00000000
+data @ mem[0x80000008] = 00000000
+data @ mem[0x8000000c] = 00000000
+data @ mem[0x80000010] = 00000000
+data @ mem[0x80000014] = 00000000
+data @ mem[0x80000018] = 00000000
+data @ mem[0x8000001c] = 00000000
+$finish called at time : 10036 ns : File "D:/risc_hw/risc_hw.srcs/sim_1/new/tb.sv" Line 70
